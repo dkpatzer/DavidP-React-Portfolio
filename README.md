@@ -59,9 +59,11 @@ their profile on a third platform (Stack Overflow, Twitter)
 
 
 
-   ![Screenshot React Portfolio Top of Site ](/public/images/Screenshot React Portfolio Top of Site.png)
-   ![Screenshot React Portfolio Projects](/public/images/Screenshot React Portfolio Projects.png)
-   ![Screenshot React Portfolio Map and Contact Me](/public/images/Screenshot React Portfolio Map and Contact Me.png)
+![Screenshot React Portfolio Top of Site](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/images/Screenshot%20React%20Portfolio%20Top%20of%20Site.png)
+![Screenshot React Portfolio Projects](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/images/Screenshot%20React%20Portfolio%20Projects.png)
+![Screenshot React Portfolio Map and Contact Me](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/images/Screenshot%20React%20Portfolio%20Map%20and%20Contact%20Me.png)
+
+
 
 ## Credits
 The React Portfolio was developed by David Patzer as part of the NU coding bootcamp. 
