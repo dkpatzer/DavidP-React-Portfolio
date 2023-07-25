@@ -4,7 +4,7 @@
 
 This is a portfolio of my work as a web developer. It is built using React. It is a single page application that uses React Router to navigate between pages. It is deployed on GitHub Pages, is responsive and works on mobile devices. It uses Tailwind CSS for styling. It uses Craco for bootstrapping the React application with a pre-configured development environment.
 
-Building this app allowed my to 
+Building this app allowed me to work with react and by doing so, understanding its set up and functioning better. I learned how to work with tailwind and craco. I learned how to deploy a react app to GitHub pages. I learned how to use react router to navigate between pages. I learned how to use react components to build a single page application. I learned how to use react to build a responsive and mobile first application.I learned how to use Google Maps and embed it in my portfolio.
 
 ## Table of Contents (Optional)
 
@@ -59,9 +59,9 @@ their profile on a third platform (Stack Overflow, Twitter)
 
 
 
-   ![Screenshot React Portfolio Top of Site ](./public/images/Screenshot React Portfolio Top of Site.png)
-   ![Screenshot React Portfolio Projects](./public/images/Screenshot React Portfolio Projects.png)
-   ![Screenshot React Portfolio Map and Contact Me](./public/images/Screenshot React Portfolio Map and Contact Me.png)
+   ![Screenshot React Portfolio Top of Site ](/public/images/Screenshot React Portfolio Top of Site.png)
+   ![Screenshot React Portfolio Projects](/public/images/Screenshot React Portfolio Projects.png)
+   ![Screenshot React Portfolio Map and Contact Me](/public/images/Screenshot React Portfolio Map and Contact Me.png)
 
 ## Credits
 The React Portfolio was developed by David Patzer as part of the NU coding bootcamp. 
