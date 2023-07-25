@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "Server Side API's Project",
       description:
         "This project uses the OpenWeather API to retrieve weather data for cities. The app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.",
-      image: "/public/images/5-day weather app.png",
+      image: "/images/5-day weather app.png",
       link: "https://dkpatzer.github.io/Five-Day-Weather-App/",
 
     },
