@@ -16,7 +16,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-
+I began by iinitializing the app and installing necessary dependencies. I t created the components for the header, footer, about me, portfolio, contact me and resume.  I then created the routes for the pages. I then created the links for the header and footer. I created the form for the contact me page. I created the map for the contact me page. I then created the links for the portfolio page. I then created the links for the resume page. I then created the links for the footer. I then created the links for the header. I made screenshots of previous apps and pust them into an images folder in the public folder. I also added a personal photograph. I tested the Portfolio multiple times using local host and then deployed it to GitHub pages.
 
 
 ## Usage
@@ -63,7 +63,7 @@ their profile on a third platform (Stack Overflow, Twitter)
 ![Screenshot React Portfolio Projects](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/public/images/Screenshot%20React%20Portfolio%20Projects.png)
 ![Screenshot React Portfolio Map and Contact Me](https://github.com/dkpatzer/DavidP-React-Portfolio/raw/main/public/images/Screenshot%20React%20Portfolio%20Map%20and%20Contact%20Me.png)
 
-
+## [Check out my deployed website](https://dkpatzer.github.io/DavidP-React-Portfolio/)
 
 ## Credits
 The React Portfolio was developed by David Patzer as part of the NU coding bootcamp. 
@@ -78,28 +78,8 @@ https://www.freecodecamp.org/news/build-portfolio-website-react/
 https://www.freecodecamp.org/news/best-practices-for-react/
 https://www.npmjs.com/package/@craco/craco
 https://tailwindcss.com/
-## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
----
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
-## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
