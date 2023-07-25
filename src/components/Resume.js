@@ -69,7 +69,7 @@ export default function Resume() {
             <img 
               className="object-cover object-center rounded"
               alt="A photo of David Patzer"
-              src="/images/Portfolio personal photo.jpeg" 
+              src={process.env.PUBLIC_URL + "./images/Portfolio personal photo.jpeg"}
             />
           </div>
         </div>
