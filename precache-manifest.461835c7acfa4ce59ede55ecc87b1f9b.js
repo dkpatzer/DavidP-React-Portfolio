@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "804c62bdbfc706c45ddb",
+    "revision": "416b1a8ea8b4560a0ba0",
     "url": "/DavidP-React-Portfolio/static/css/main.54645ec2.chunk.css"
   },
   {
-    "revision": "804c62bdbfc706c45ddb",
-    "url": "/DavidP-React-Portfolio/static/js/main.804c62bd.chunk.js"
+    "revision": "416b1a8ea8b4560a0ba0",
+    "url": "/DavidP-React-Portfolio/static/js/main.416b1a8e.chunk.js"
   },
   {
     "revision": "20e15a616ba784fadde6",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/DavidP-React-Portfolio/static/media/2021 Twitter logo - blue.7571ea13.png"
   },
   {
-    "revision": "61477047785d850585794a392aeb2b9c",
+    "revision": "eeaed9be0069a0b988a5c0c3d075ce0a",
     "url": "/DavidP-React-Portfolio/index.html"
   }
 ];
